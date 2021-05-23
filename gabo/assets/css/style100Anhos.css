@@ -1,0 +1,65 @@
+body{
+    
+    background-color: rgb(146, 186, 221);
+    font-family: "Akaya Telivigala", cursive;
+    font-style: italic;
+}
+
+.container{
+    background: rgb(146, 186, 221);
+    height: 400px;
+    text-align: justify;
+    padding: 20px 100px 70px 100px;
+    color: black;
+}
+
+.container p{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.container h2{
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
+
+
+.bannerCien{
+    background-image: url(../img/100AnhosImg.jpg);
+    background-size: cover;
+    height: 550px;
+}
+
+
+footer{
+    background-color: #009500;
+    color: white;
+    text-align: center;
+    padding: 20px 100px;
+    font-size: 25px;
+}
+
+
+.publicacionObra{
+    background: rgb(146, 186, 221);
+    text-align: justify;
+    height: 150px;
+    padding: 20px 100px 70px 100px;
+    color: black;
+}
+
+
+.publicacionObra p{
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+}
+
+.publicacionObra h2{
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+    
+}
